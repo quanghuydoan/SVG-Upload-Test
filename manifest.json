@@ -1,0 +1,17 @@
+{
+  "name": "SVG Import",
+  "id": "1295402372170655493",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://picsum.photos"
+    ]
+  }
+}
